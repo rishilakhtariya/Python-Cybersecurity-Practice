@@ -1,28 +1,42 @@
-# Python-Cybersecurity-Practice
-Python projects focused on Blue Teaming, SOC Analysis, and Digital Forensics.
+ python-Cybersecurity-Practice
 
-# Projects
+Cybersecurity-focused Python projects including log analysis, password security, threat detection, and digital forensics automation.
 
-1. Password Strength Checker
-Checks:
-- Digits
-- Uppercase letters
-- Lowercase letters
-- Special characters
+ Projects
+
+1. Failed Login Analyzer
+
+Features:
+
+ Counts failed and successful login attempts
+ Tracks user login statistics
+ Identifies the most targeted user
+ Detects potential brute-force attacks
+
+2. Password Strength Checker
+
+Checks password complexity by detecting:
+
+ Digits
+ Uppercase letters
+ Lowercase letters
+ Special characters
 
 Outputs:
-- Weak
-- Medium
-- Strong
 
-# Skills Practiced
+ Weak
+ Medium
+ Strong
 
-- Python Fundamentals
-- Loops
-- Conditions
-- Dictionaries
-- Cybersecurity Automation
+ Skills Practiced
 
-# Author
+ Python Fundamentals
+ Loops and Conditions
+ Dictionaries
+ String Processing
+ Log Analysis
+ Cybersecurity Automation
+
+Author
 
 Rishi Lakhtariya
