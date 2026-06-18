@@ -1,7 +1,6 @@
 password = input("Enter your password: ")
 
 special_chars = "@#$%&!"
-
 has_digits = False
 has_uppercase = False
 has_lowercase = False
