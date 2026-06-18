@@ -15,7 +15,7 @@ Outputs:
 - Medium
 - Strong
 
-## Skills Practiced
+# Skills Practiced
 
 - Python Fundamentals
 - Loops
@@ -23,6 +23,6 @@ Outputs:
 - Dictionaries
 - Cybersecurity Automation
 
-## Author
+# Author
 
 Rishi Lakhtariya
