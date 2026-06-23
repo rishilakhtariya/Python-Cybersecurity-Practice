@@ -6,7 +6,7 @@ Cybersecurity-focused Python projects including log analysis, password security,
 
  1. File Hash Analyzer
 
-*Features:
+Features:
 
 * Reads file contents
 * Generates MD5 hashes
@@ -17,7 +17,7 @@ Cybersecurity-focused Python projects including log analysis, password security,
 
  2. Failed Login Analyzer
 
-*Features:
+Features:
 
 * Counts failed and successful login attempts
 * Tracks user login statistics
@@ -26,14 +26,14 @@ Cybersecurity-focused Python projects including log analysis, password security,
 
  3. Password Strength Checker
 
-*Checks Password Complexity:
+Checks Password Complexity:
 
 * Digits
 * Uppercase letters
 * Lowercase letters
 * Special characters
 
-*Outputs:
+Outputs:
 
 * Weak
 * Medium
@@ -53,4 +53,4 @@ Cybersecurity-focused Python projects including log analysis, password security,
 
 # Author
 
-*Rishi Lakhtariya
+Rishi Lakhtariya
