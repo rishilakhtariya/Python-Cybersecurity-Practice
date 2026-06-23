@@ -4,7 +4,7 @@ Cybersecurity-focused Python projects including log analysis, password security,
 
 # Projects
 
- 1. File Hash Analyzer
+1. File Hash Analyzer
 
 Features:
 
@@ -15,7 +15,9 @@ Features:
 * Compares generated hashes against known hashes
 * Identifies known and unknown files
 
- 2. Failed Login Analyzer
+
+
+2. Failed Login Analyzer
 
 Features:
 
@@ -24,7 +26,9 @@ Features:
 * Identifies the most targeted user
 * Detects potential brute-force attacks
 
- 3. Password Strength Checker
+
+
+3. Password Strength Checker
 
 Checks Password Complexity:
 
