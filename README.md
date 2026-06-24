@@ -4,7 +4,19 @@ Cybersecurity-focused Python projects including log analysis, password security,
 
 # Projects
 
-1. File Hash Analyzer
+
+1. IOC Extractor
+
+Features:
+
+* Extracts IP addresses
+* Extracts domains (.com, .net, .org, .io)
+* Extracts email addresses
+* Extracts URLs
+* Extracts MD5, SHA1, and SHA256 hashes
+* Generates a structured IOC report from text files
+
+2. File Hash Analyzer
 
 Features:
 
@@ -17,7 +29,7 @@ Features:
 
 
 
-2. Failed Login Analyzer
+3. Failed Login Analyzer
 
 Features:
 
@@ -28,7 +40,7 @@ Features:
 
 
 
-3. Password Strength Checker
+4. Password Strength Checker
 
 Checks Password Complexity:
 
@@ -48,10 +60,11 @@ Outputs:
 * Python Fundamentals
 * File Handling
 * Loops and Conditions
-* Dictionaries
 * String Processing
 * Hash Analysis
+* IOC Analysis
 * Log Analysis
+* Threat Hunting Fundamentals
 * Cybersecurity Automation
 * Digital Forensics Fundamentals
 
