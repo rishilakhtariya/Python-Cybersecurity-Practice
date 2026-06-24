@@ -1,10 +1,23 @@
- Python-Cybersecurity-Practice
+# Python-Cybersecurity-Practice
 
 Cybersecurity-focused Python projects including log analysis, password security, threat detection, and digital forensics automation.
 
 # Projects
 
- 1. Failed Login Analyzer
+1. File Hash Analyzer
+
+Features:
+
+* Reads file contents
+* Generates MD5 hashes
+* Generates SHA1 hashes
+* Generates SHA256 hashes
+* Compares generated hashes against known hashes
+* Identifies known and unknown files
+
+
+
+2. Failed Login Analyzer
 
 Features:
 
@@ -13,9 +26,11 @@ Features:
 * Identifies the most targeted user
 * Detects potential brute-force attacks
 
- 2. Password Strength Checker
 
-Checks password complexity by detecting:
+
+3. Password Strength Checker
+
+Checks Password Complexity:
 
 * Digits
 * Uppercase letters
@@ -31,11 +46,14 @@ Outputs:
 # Skills Practiced
 
 * Python Fundamentals
+* File Handling
 * Loops and Conditions
 * Dictionaries
 * String Processing
+* Hash Analysis
 * Log Analysis
 * Cybersecurity Automation
+* Digital Forensics Fundamentals
 
 # Author
 
