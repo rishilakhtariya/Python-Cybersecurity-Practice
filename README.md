@@ -1,4 +1,4 @@
-# Python-Cybersecurity-Practice
+# Python-Projects
 
 Cybersecurity-focused Python projects including log analysis, password security, threat detection, and digital forensics automation.
 
